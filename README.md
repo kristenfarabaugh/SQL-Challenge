@@ -6,7 +6,7 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 ## Analysis Process:
 1. Inspect CSV File structure (columns and data types)
-2. Create an ERD to visualize relationships between tables
+2. Create an ERD to visualize relationships between tables (including primary keys, data types, referential integrity, etc)
 3. Create table schema in SQL
 4. Upload CSV Files
 5. Query the data based on parameters / questions to be answered
