@@ -15,8 +15,8 @@ e.first_name,
 e.last_name,
 e.hire_date_date
 FROM employees e 
-WHERE date(hire_date_date) >= date('1986-01-01') 
-AND date(hire_date_date) <= date('1986-12-31');
+WHERE date(hire_date) >= date('1986-01-01') 
+AND date(hire_date) <= date('1986-12-31');
 
 -- List the manager of each department along with their department number, department name, employee number, last name, and first name.
 SELECT  
